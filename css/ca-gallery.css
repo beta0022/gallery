@@ -767,3 +767,17 @@ fieldset[disabled] .btn-xl:hover {
     padding-right: 0;
     padding-left: 0;
 }
+
+h4.section-heading {
+    margin: 20px;
+    margin-top: 50px;
+}
+
+
+.logos-png {
+    padding: 4px;
+    margin: 4px;
+    width:  60px;
+    height: 60px;
+    object-fit: contain;
+}
